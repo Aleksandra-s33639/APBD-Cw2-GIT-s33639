@@ -8,7 +8,8 @@ Merge commit powstaje gdy obie gałęzie mają nowe commity od momentu rozdziele
 
 Pytanie 2: Czym w praktyce różni się merge od rebase?
 
-
+Merge zachowuje oryginalną historię obu gałęzi i dodaje specjalny commit łączący.
+Rebase przenosi commity z jednej gałęzi na koniec drugiej, jakby powstały później.
 
 Pytanie 3: W jaki sposób został rozwiązany konflikt w Twoim repozytorium?
 
